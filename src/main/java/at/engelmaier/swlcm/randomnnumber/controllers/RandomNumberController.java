@@ -4,14 +4,14 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import java.util.Random;
 
-/*@Path("/api/rot13/")
+
 public class RandomNumberController {
-    Random rand = new Random(); //instance of random class
+   /* Random rand = new Random(); //instance of random class
     int upperbound = 100;
     //generate random values from 0-24
     @Produces(MediaType.TEXT_PLAIN)
-    public int int_random = rand.nextInt(upperbound);
+    public int int_random = rand.nextInt(upperbound);*/
 
 
 
-}*/
+}
